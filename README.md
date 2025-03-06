@@ -1,4 +1,4 @@
-I am a computational material scientist with research expertise in the field of solar energy capture, storage and conversion. I have expertise in solid materials modeling and simulation using quantum simulation, high-throughput computational screening, and statistical machine-learning techniques. 
+I am a computational materials scientist with research expertise in the field of solar energy capture, storage and conversion. I have expertise in solid materials modeling and simulation using quantum simulation, high-throughput computational screening, and statistical machine-learning techniques. 
 
 Furthermore, I am highly interested in applying machine learning, artificial intelligence, and Generative AI to foster innovation in renewable energy, materials development, intelligence, defense, finance, trading, and many emerging sectors. I have extensive industrial and academic experience in quantitative and qualitative data analysis, data engineering, and machine learning model development for making data-driven business solutions that improve business productivity and performance. 
 
